@@ -34,22 +34,22 @@ Belief: Impossible usually just means “not engineered yet.”
 | Domain | Skills / Tools |
 | ------ | -------------- |
 | Languages | Python, JavaScript / TypeScript |
-| Web | React / Next.js, Node.js / Express, REST & GraphQL APIs |
-| Mobile / Cross‑Platform | (Add: Flutter / React Native / Native Android / iOS) |
-| AI / Intelligent Features | AI Integration, Prompt Engineering, Automation |
-| Architecture | Modular Design, Microservices, API-First, Scalability |
-| Databases | (Add: PostgreSQL, MySQL, MongoDB, Redis, etc.) |
-| Cloud & DevOps | (Add: AWS / Azure / GCP, Docker, CI/CD) |
+| Web | React / Next.js, Node.js / Express, REST & GraphQL APIs, Tailwind CSS |
+| Mobile / Cross‑Platform | PWA Design, Responsive UI, (Add: Flutter / React Native if applicable) |
+| AI / Intelligent Features | AI / ML Integration, Prompt Engineering, Data Pipelines, Automation |
+| Architecture | Modular Design, Microservices, API-First, Scalability, Event-Driven Patterns |
+| Databases | MongoDB, (Add: PostgreSQL, MySQL, Redis if applicable) |
+| Cloud & DevOps | Google Cloud (Deploy, Storage, Functions), Docker, CI/CD |
 | Product & Delivery | SaaS Development, MVP Prototyping, Consulting |
 | Mentoring | Student Project Guidance, Code Reviews, Concept Coaching |
 
-(Replace “Add:” rows with concrete stacks you actively use.)
+(Replace any remaining “Add:” hints with exact stacks you use.)
 
 ---
 
 ### 💼 Services
 
-- Full Stack Web & Mobile Application Development  
+- Full Stack Web & Mobile-Responsive PWA Development  
 - AI / ML Feature Integration & Automation Pipelines  
 - Custom SaaS & Internal Tools  
 - API & Backend Architecture  
@@ -61,25 +61,25 @@ Belief: Impossible usually just means “not engineered yet.”
 
 ### 🌟 Featured & Recent Projects
 
-Below are selected recent & flagship projects. Some are private; descriptions focus on value & tech rather than proprietary detail.
+All recent flagship products below are production-ready, mobile responsive Progressive Web Apps leveraging: Next.js + Tailwind CSS, Node.js APIs, MongoDB, AI/ML components, and Google Cloud infrastructure.
 
-| Project | What It Does / Value | Tech (Indicative) | Visibility |
-| ------- | -------------------- | ----------------- | ---------- |
-| Zenith Time | Workforce / productivity & time tracking platform (attendance, timesheets, performance insights). | Python (FastAPI*), React / Next.js*, Postgres*, Redis* (queues), Auth, Role-Based Access | Private |
-| Family Hub | Centralized family management portal (tasks, shared calendar, finance / budgeting, reminders). | Node.js / Express* or FastAPI*, React, MongoDB*/Postgres*, Notification Service, Auth | Private |
-| GST Manager | GST compliance & invoice management (invoice creation, tax calc, filing preparation, ledgers). | Python (FastAPI / Django*), React, PostgreSQL/MySQL*, PDF Generation, Reporting, Cron Jobs | Private |
-| accounting-backend | Core accounting / ledger service layer enabling financial ops & future analytics modules. | Python (FastAPI*), Modular Services, RDBMS* | Public |
+| Project | What It Does / Value | Tech Stack | Visibility |
+| ------- | -------------------- | ---------- | ---------- |
+| Zenith Time | Workforce time & productivity platform: attendance, intelligent timesheets, performance analytics, anomaly detection for time usage. | Next.js, Tailwind CSS, Node.js (API), MongoDB, AI/ML (productivity insights), Google Cloud (Deploy/Storage), PWA | Private (Production) |
+| Family Hub | Unified family collaboration hub: shared tasks, calendar, budgeting, reminders, secure shared resources, AI-assisted planning suggestions. | Next.js, Tailwind CSS, Node.js, MongoDB, AI/ML (smart suggestions), Google Cloud, Realtime (WebSockets*), PWA | Private (Production) |
+| GST Manager | GST compliance & tax management suite: invoice creation, GST tax calculation, return prep, audit-ready PDF / reports, anomaly & fraud pattern flags. | Next.js, Tailwind CSS, Node.js, MongoDB, AI/ML (classification & anomaly), Google Cloud, PDF Generation, PWA | Private (Production) |
+| accounting-backend | Core accounting / ledger service layer enabling financial ops & future analytics modules. | Python (FastAPI*), RDBMS*, Modular Services | Public |
 | invoice_backend | Invoicing API (document lifecycle, billing logic). | Node.js / Express*, JWT Auth, DB* | Public |
-| invoive_frontend | Front-end dashboard for invoice management (real-time status & UX). | TypeScript, React / Next.js*, UI Lib* | Public |
+| invoive_frontend | Front-end dashboard for invoice management (real-time status & UX). | Next.js, Tailwind CSS, TypeScript | Public |
 | AI_TravelAgent | Intelligent itinerary & travel planning assistant (LLM-driven suggestions). | Python, LLM Integration, Prompt Engineering | Public/Experimental |
 | toelevering-scraper | Price scraping engine for sourcing/procurement (multi-source aggregation). | Python (Requests/Async*), Parsing, Scheduling | Public |
 | romanian_speech_to_text | Speech-to-text prototype for Romanian language. | JavaScript, Web Speech / APIs* | Public |
 | Ananas | Android image editing integration component. | Java (Android), Image Processing | Public |
 | AisLib | AIS (maritime vessel) message decoding library. | Java, Data Parsing | Public |
 
-*Items with * are assumptions/placeholders—please confirm or revise.
+(* Confirm or refine starred assumptions or leave blank if not applicable.)
 
-If you’d like, I can expand each recent project (Zenith Time / Family Hub / GST Manager) into a fuller case-study card (Problem → Solution → Impact). Let me know.
+If you’d like, I can expand Zenith Time, Family Hub, and GST Manager into case studies (Problem → Solution → Architecture → Impact). Just say: "Add case studies" and optionally give metrics.
 
 ---
 
@@ -97,10 +97,10 @@ If you’d like, I can expand each recent project (Zenith Time / Family Hub / GS
 
 ### 🔍 Current Focus Areas
 
-- AI-enhanced product features  
+- AI-augmented product features  
 - Scalable backend & API design  
-- Student mentorship & knowledge sharing  
-- Continuous expansion of architectural patterns  
+- Process automation & data workflows  
+- Mentoring & architectural knowledge sharing  
 
 ---
 
@@ -124,15 +124,14 @@ If you’d like, I can expand each recent project (Zenith Time / Family Hub / GS
 
 ---
 
-### 🧾 Quick Checklist (Customize Before Finalizing)
+### 🧾 Quick Checklist (Next Enhancements)
 
-- [ ] Confirm tech stacks for Zenith Time / Family Hub / GST Manager  
-- [ ] Add impact metrics (hours saved, processing speed, user counts)  
-- [ ] Replace remaining placeholders (DB choices, frameworks)  
-- [ ] Add private project case-study expansions  
-- [ ] Add contact email (if desired)  
-- [ ] Add a banner image (top)  
-- [ ] Optionally add achievements badge / contributions graph  
+- [ ] Provide metrics (users, % time saved, invoices processed) for Zenith Time / Family Hub / GST Manager  
+- [ ] Confirm or remove any starred assumptions  
+- [ ] Add case study expansions (Problem → Solution → Impact)  
+- [ ] Add contact email / form link  
+- [ ] Add banner image (top)  
+- [ ] Add achievements or KPI badge strip  
 
 ---
 
