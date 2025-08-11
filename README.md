@@ -79,7 +79,29 @@ All recent flagship products below are production-ready, mobile responsive Progr
 
 (* Confirm or refine starred assumptions or leave blank if not applicable.)
 
-If you’d like, I can expand Zenith Time, Family Hub, and GST Manager into case studies (Problem → Solution → Architecture → Impact). Just say: "Add case studies" and optionally give metrics.
+---
+
+### 📌 Case Studies
+
+#### Zenith Time
+Problem: Teams lacked a unified, intelligent way to track work hours, detect anomalies, and surface productivity insights without manual spreadsheet maintenance.  
+Solution: Production PWA for time & attendance with smart timesheet generation, AI-assisted anomaly detection (missed punches, irregular patterns), and performance dashboards.  
+Architecture: Next.js (PWA) + Tailwind, Node.js service layer (modular domains), MongoDB (time entries, sessions, anomaly flags, aggregates), AI/ML scoring for irregular patterns, Google Cloud (Cloud Run/App Engine*, Scheduler), offline caching for recent entries.  
+Impact (to add): Active users, % reduction in manual corrections, anomaly review time reduction.
+
+#### Family Hub
+Problem: Families juggled separate apps for tasks, calendars, budgeting & planning causing friction and missed responsibilities.  
+Solution: Centralized collaboration hub with shared tasks, calendar sync, budgeting panels, reminders, AI-generated planning suggestions (meal plans, schedule conflict hints).  
+Architecture: Next.js + Tailwind PWA, Node.js API (tasks, calendar, finance, suggestions), MongoDB (families, members, tasks, events, budgets, suggestions cache), optional WebSockets (real-time updates), notification layer (email / push) via Google Cloud functions / scheduler, AI prompt-based suggestion engine.  
+Impact (to add): Families onboarded, task completion improvement %, planning time saved per week.
+
+#### GST Manager
+Problem: Manual GST invoice handling & return preparation was error-prone and time-consuming, increasing compliance risk.  
+Solution: Production GST platform automating invoice lifecycle, GST tax computation, return dataset assembly, PDF/audit reports, and anomaly/fraud pattern detection.  
+Architecture: Next.js dashboard (multi-tenant roles), Node.js backend (invoice engine, tax rules, reporting), MongoDB (invoices, tax rules, ledgers, anomaly logs), AI/ML anomaly scoring (duplicate & inconsistent rate detection), Google Cloud scheduled batching & reminders, server-side PDF generation.  
+Impact (to add): Invoices processed, % prep time reduction, error rate before → after, minutes to generate return packet.
+
+(Provide metrics any time and I will integrate them.)
 
 ---
 
@@ -126,9 +148,8 @@ If you’d like, I can expand Zenith Time, Family Hub, and GST Manager into case
 
 ### 🧾 Quick Checklist (Next Enhancements)
 
-- [ ] Provide metrics (users, % time saved, invoices processed) for Zenith Time / Family Hub / GST Manager  
+- [ ] Add real metrics to Case Studies (users, % time saved, invoices processed)  
 - [ ] Confirm or remove any starred assumptions  
-- [ ] Add case study expansions (Problem → Solution → Impact)  
 - [ ] Add contact email / form link  
 - [ ] Add banner image (top)  
 - [ ] Add achievements or KPI badge strip  
