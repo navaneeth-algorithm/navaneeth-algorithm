@@ -59,15 +59,27 @@ Belief: Impossible usually just means “not engineered yet.”
 
 ---
 
-### 🌟 Featured Projects (Placeholders)
+### 🌟 Featured & Recent Projects
 
-| Project | What It Does | Tech | Link |
-| ------- | ------------ | ---- | ---- |
-| SmartBiz Automator | Automates routine business workflows to increase profitability | Python, FastAPI, React | (link) |
-| EduAssist Mentor | AI-driven student project guidance & tracking | Node.js, Next.js, OpenAI API | (link) |
-| Mobile Insight Hub | Cross-platform analytics & notification app | (e.g. Flutter, Firebase) | (link) |
+Below are selected recent & flagship projects. Some are private; descriptions focus on value & tech rather than proprietary detail.
 
-(Add real repositories once selected.)
+| Project | What It Does / Value | Tech (Indicative) | Visibility |
+| ------- | -------------------- | ----------------- | ---------- |
+| Zenith Time | Workforce / productivity & time tracking platform (attendance, timesheets, performance insights). | Python (FastAPI*), React / Next.js*, Postgres*, Redis* (queues), Auth, Role-Based Access | Private |
+| Family Hub | Centralized family management portal (tasks, shared calendar, finance / budgeting, reminders). | Node.js / Express* or FastAPI*, React, MongoDB*/Postgres*, Notification Service, Auth | Private |
+| GST Manager | GST compliance & invoice management (invoice creation, tax calc, filing preparation, ledgers). | Python (FastAPI / Django*), React, PostgreSQL/MySQL*, PDF Generation, Reporting, Cron Jobs | Private |
+| accounting-backend | Core accounting / ledger service layer enabling financial ops & future analytics modules. | Python (FastAPI*), Modular Services, RDBMS* | Public |
+| invoice_backend | Invoicing API (document lifecycle, billing logic). | Node.js / Express*, JWT Auth, DB* | Public |
+| invoive_frontend | Front-end dashboard for invoice management (real-time status & UX). | TypeScript, React / Next.js*, UI Lib* | Public |
+| AI_TravelAgent | Intelligent itinerary & travel planning assistant (LLM-driven suggestions). | Python, LLM Integration, Prompt Engineering | Public/Experimental |
+| toelevering-scraper | Price scraping engine for sourcing/procurement (multi-source aggregation). | Python (Requests/Async*), Parsing, Scheduling | Public |
+| romanian_speech_to_text | Speech-to-text prototype for Romanian language. | JavaScript, Web Speech / APIs* | Public |
+| Ananas | Android image editing integration component. | Java (Android), Image Processing | Public |
+| AisLib | AIS (maritime vessel) message decoding library. | Java, Data Parsing | Public |
+
+*Items with * are assumptions/placeholders—please confirm or revise.
+
+If you’d like, I can expand each recent project (Zenith Time / Family Hub / GST Manager) into a fuller case-study card (Problem → Solution → Impact). Let me know.
 
 ---
 
@@ -114,11 +126,13 @@ Belief: Impossible usually just means “not engineered yet.”
 
 ### 🧾 Quick Checklist (Customize Before Finalizing)
 
-- [ ] Replace placeholder technologies (Cloud, Mobile, DB, AI frameworks)  
-- [ ] Insert real featured project names & links  
+- [ ] Confirm tech stacks for Zenith Time / Family Hub / GST Manager  
+- [ ] Add impact metrics (hours saved, processing speed, user counts)  
+- [ ] Replace remaining placeholders (DB choices, frameworks)  
+- [ ] Add private project case-study expansions  
 - [ ] Add contact email (if desired)  
 - [ ] Add a banner image (top)  
-- [ ] Optionally add contributions graph / achievements badge  
+- [ ] Optionally add achievements badge / contributions graph  
 
 ---
 
