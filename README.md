@@ -21,9 +21,8 @@ From concept → prototype → production across web, mobile, desktop and AI lay
 
 ### 🧠 Mindset
 
-Relentless curiosity. Creative debugging. Systems thinking.  
-I enjoy the “commander” feeling of directing a machine to materialize imagination.  
-When output differs from expectation—that’s exploration time, not failure.  
+Relentless curiosity.
+If you dream it, then you can achieve it
 Belief: Impossible usually just means “not engineered yet.”
 
 ---
