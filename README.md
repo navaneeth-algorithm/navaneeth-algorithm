@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Navaneeth 👋</h1>
-<h3 align="center">Transforming Ideas into Technology Solutions | Full Stack AI Developer</h3>
+<h3 align="center">💀</h3>
 
 <p align="center">
   <a href="https://www.fiverr.com/neethassolution?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=for-the-badge&logo=fiverr" /></a>
@@ -21,9 +21,9 @@ From concept → prototype → production across web, mobile, desktop and AI lay
 
 ### 🧠 Mindset
 
-Relentless curiosity.
-If you dream it, then you can achieve it
-Belief: Impossible usually just means “not engineered yet.”
+- Relentless curiosity.
+- If you dream it, then you can achieve it
+- Belief: Impossible usually just means “not engineered yet.”
 
 ---
 
