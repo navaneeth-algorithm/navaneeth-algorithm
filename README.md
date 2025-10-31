@@ -6,7 +6,6 @@
   <a href="https://www.fiverr.com/neethassolution?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=for-the-badge&logo=fiverr" /></a>
   <a href="https://www.linkedin.com/in/navaneeth-b-40991b129/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/InbenneAI"><img src="https://img.shields.io/badge/Twitter-@InbenneAI-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <img src="https://img.shields.io/badge/Status-Hireable-success?style=for-the-badge" />
 </p>
 
 ---
