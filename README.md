@@ -12,10 +12,9 @@
 
 ### 🚀 Mission
 
-I architect, build and deliver intelligent software products that transform raw ideas into scalable, revenue‑driven solutions.  
-From concept → prototype → production across web, mobile, desktop and AI layers.
+To reach the highest place human has ever reached. 
 
-> “If you have an idea that needs technology to bring it to life, I’ll make sure it comes alive.”
+> “Theory exist's to be challenged. Evolution is purpose”
 
 ---
 
