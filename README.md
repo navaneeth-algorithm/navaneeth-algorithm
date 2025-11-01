@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Navaneeth 👋</h1>
-<h3 align="center">💀</h3>
+<h3 align="center">☠️</h3>
 
 <p align="center">
   <a href="https://www.fiverr.com/neethassolution?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=for-the-badge&logo=fiverr" /></a>
